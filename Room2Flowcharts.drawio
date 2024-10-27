@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.3" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,6 +44,118 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w0srpBOsno_8XAzC3wrv" name="Locked Box">
+    <mxGraphModel dx="892" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-1" target="KU_1KyoGgDrqsyhrk9ab-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-1" value="&lt;div&gt;Investigate LOCKED BOX&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-2" target="KU_1KyoGgDrqsyhrk9ab-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-2" target="KU_1KyoGgDrqsyhrk9ab-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-2" value="Has KEY TO LOCKED BOX?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-4" target="KU_1KyoGgDrqsyhrk9ab-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-12" value="&lt;div&gt;&quot;Please don&#39;t&lt;/div&gt;&lt;div&gt;be an urn...&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KU_1KyoGgDrqsyhrk9ab-10">
+          <mxGeometry x="0.0105" y="-1" relative="1" as="geometry">
+            <mxPoint x="14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-4" value="Yes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-6" target="KU_1KyoGgDrqsyhrk9ab-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-14" value="&quot;Hm, it&#39;s locked.&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KU_1KyoGgDrqsyhrk9ab-8">
+          <mxGeometry x="0.36" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-6" value="No" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-9" value="Obtain KEY TO LOCKED BOX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-11" value="Open LOCKED BOX and obtain _____" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-13" target="KU_1KyoGgDrqsyhrk9ab-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-13" value="Investigate LOOSE TILE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-16" target="KU_1KyoGgDrqsyhrk9ab-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-16" target="KU_1KyoGgDrqsyhrk9ab-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-16" value="&lt;div&gt;Has&lt;/div&gt;&lt;div&gt;BEAR CLAW?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-17" target="KU_1KyoGgDrqsyhrk9ab-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-27" value="&lt;div&gt;&quot;I could probably pry&lt;/div&gt;&lt;div&gt;this up if I had something&lt;/div&gt;&lt;div&gt;sharp enough.&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KU_1KyoGgDrqsyhrk9ab-25">
+          <mxGeometry x="-0.1692" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-17" value="No" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="820" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-20" target="KU_1KyoGgDrqsyhrk9ab-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-20" value="Yes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-23" value="Remove LOOSE TILE and obtain KEY LOCKED BOX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-23" target="KU_1KyoGgDrqsyhrk9ab-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-26" value="Obtain BEAR CLAW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-29" value="Obtain KEY TO LOCKED BOX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="185" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
