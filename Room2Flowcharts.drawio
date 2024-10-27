@@ -157,6 +157,57 @@
         <mxCell id="KU_1KyoGgDrqsyhrk9ab-29" value="Obtain KEY TO LOCKED BOX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="700" width="185" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-30" value="&lt;div&gt;Obtain&lt;/div&gt;&lt;div&gt;BEAR CLAW&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-31" target="KU_1KyoGgDrqsyhrk9ab-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-31" value="Investigate PELT RUG" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-33" target="KU_1KyoGgDrqsyhrk9ab-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-33" target="KU_1KyoGgDrqsyhrk9ab-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-33" value="&lt;div&gt;Investigated&lt;/div&gt;&lt;div&gt;LOOSE TILE?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-34" target="KU_1KyoGgDrqsyhrk9ab-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-44" value="&lt;div&gt;&quot;Even as a rug, that thing is&lt;/div&gt;&lt;div&gt;terrifying. Those claws still&lt;br&gt;&lt;/div&gt;&lt;div&gt;look sharp enough to kill.&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KU_1KyoGgDrqsyhrk9ab-43">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-34" value="No" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KU_1KyoGgDrqsyhrk9ab-35" target="KU_1KyoGgDrqsyhrk9ab-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-40" value="&quot;Sorry, buddy.&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KU_1KyoGgDrqsyhrk9ab-39">
+          <mxGeometry x="-0.15" y="-4" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-35" value="Yes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-38" value="Obtain BEAR CLAW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-42" value="Note BEAR CLAW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KU_1KyoGgDrqsyhrk9ab-45" value="LOCKED BOX Puzzle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="260" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
